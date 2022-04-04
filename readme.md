@@ -15,7 +15,7 @@ Find the password from the system generated hash:
 
 806825f0827b628e81620f0d83922fb2c52c7136
 
-Tip: use john's wordlist (password.lst)
+Tip: use john's wordlist (password.lst); <br>
 Tip2: Create a script to read the wordlist and apply the algorithm above.
 
 
